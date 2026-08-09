@@ -1,0 +1,21 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Agent config (not project code)
+.agent/
